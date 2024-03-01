@@ -1,0 +1,25 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://ftp.wajidkhan.info/superjp.html/sitemap.xml
+Sitemap: https://ftp.wajidkhan.info/gilajp.html/sitemap.xml
+Sitemap: https://ftp.wajidkhan.info/gojekpot.html/sitemap.xml
+Sitemap: https://ftp.wajidkhan.info/winstrike69.html/sitemap.xml
+Sitemap: https://ftp.wajidkhan.info/jagoan86.html/sitemap.xml
+Sitemap: https://ftp.wajidkhan.info/kaptenjackpot.html/sitemap.xml
+Sitemap: https://ftp.wajidkhan.info/boosterjp.html/sitemap.xml
+Sitemap: https://ftp.wajidkhan.info/kerajaanslot.html/sitemap.xml
+Sitemap: https://ftp.wajidkhan.info/pakong86.html/sitemap.xml
+Sitemap: https://ftp.wajidkhan.info/viral88.html/sitemap.xml
+Sitemap: https://ftp.wajidkhan.info/clan4d.html/sitemap.xml
+Sitemap: https://ftp.wajidkhan.info/dinamit4d.html/sitemap.xml
+Sitemap: https://ftp.wajidkhan.info/elang212.html/sitemap.xml
+Sitemap: https://ftp.wajidkhan.info/gori77.html/sitemap.xml
+Sitemap: https://ftp.wajidkhan.info/viral4d.html/sitemap.xml
+Sitemap: https://ftp.wajidkhan.info/playground88.html/sitemap.xml
